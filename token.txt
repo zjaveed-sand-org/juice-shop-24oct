@@ -1,0 +1,6 @@
+aws_access_key_id = AKIAT4GVSAXXLJICKKXO
+aws_secret_access_key = 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
+output = json
+region = us-east-2
+
+7h9ixyol6og0uh21gm5md8eou.canarytokens.com
